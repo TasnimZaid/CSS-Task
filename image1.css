@@ -1,0 +1,21 @@
+ .image1,body{
+    padding:20px;
+ }
+ 
+ table{
+    margin-left: 10px;
+    border-spacing: 12px;
+    
+    
+    
+ }
+ td { 
+    border-radius: 10%;
+    margin: 5%;
+    padding: 12px;
+    border:2px solid ;
+    box-shadow: 4px 4px 4px  #645e5e;
+ }
+
+
+ 
